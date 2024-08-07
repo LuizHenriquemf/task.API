@@ -1,0 +1,1 @@
+Este projeto é um aplicativo de gerenciamento de tarefas ("to-do") desenvolvido em Node.js, inspirado na metodologia Scrum. Ele permite a criação, leitura, atualização e exclusão de tarefas, com o objetivo de auxiliar equipes a organizarem seus fluxos de trabalho e acompanhar o progresso em projetos ágeis.
